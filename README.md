@@ -13,12 +13,10 @@ In brief, this project aims to:
 - ensure that the source code is semantic elements
 
 ## Screenshot
-The User Interface
+The User Interface:
 ![User Interface](https://github.com/mashraka/crispy-octo-memory/blob/main/assets/images/screenshot_ui.jpg?raw=true)
 
-The Magic Behind it All 
-![Code Screenshot](https://github.com/mashraka/crispy-octo-memory/blob/main/assets/images/code_screenshot_one.jpg?raw=true)
-![Code Screenshot](https://github.com/mashraka/crispy-octo-memory/blob/main/assets/images/code_screenshot_one.jpg?raw=true)
+The Code:
 ![code screenshot](https://github.com/mashraka/crispy-octo-memory/blob/main/assets/images/code_screenshot_one.JPG?raw=true)
 
 ## Link
