@@ -14,12 +14,13 @@ In brief, this project aims to:
 
 ## Screenshot
 The User Interface
-
+![User Interface](https://github.com/mashraka/crispy-octo-memory/blob/main/image.jpg?raw=true)
 
 The Magic Behind it All
 
 ## Link
 insert *deployed application*
+
 isert link *to the repository*
 
 ## For the Future
