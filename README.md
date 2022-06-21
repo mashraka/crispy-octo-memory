@@ -15,7 +15,8 @@ In brief, this project aims to:
 ## Screenshot
 The User Interface
 !User Interface(https://github.com/mashraka/crispy-octo-memory/blob/main/image.jpg?raw=true)
-!User Interface(https://github.com/mashraka/crispy-octo-memory/blob/main/assets/images/screenshot_ui.jpg?)
+!User Interface(https://github.com/mashraka/crispy-octo-memory/blob/main/assets/images/screenshot_ui.jpg)
+![User Interface](https://github.com/mashraka/crispy-octo-memory/blob/main/assets/images/screenshot_ui.jpg?raw=true)
 The Magic Behind it All
 
 ## Link
