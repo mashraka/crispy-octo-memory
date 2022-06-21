@@ -18,6 +18,7 @@ The User Interface
 
 The Magic Behind it All 
 ![Code Screenshot](https://github.com/mashraka/crispy-octo-memory/blob/main/assets/images/code_screenshot_one.jpg?raw=true)
+![Code Screenshot](https://github.com/mashraka/crispy-octo-memory/blob/main/assets/images/code_screenshot_one.jpg?raw=true)
 
 ## Link
 Deployed URL: https://mashraka.github.io/crispy-octo-memory
