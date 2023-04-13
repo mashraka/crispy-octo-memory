@@ -20,7 +20,7 @@ The Code:
 ![code screenshot](https://github.com/mashraka/crispy-octo-memory/blob/main/assets/images/code_screenshot_one.JPG?raw=true)
 
 ## Link
-Deployed URL: https://mashraka.github.io/crispy-octo-memory
+Deployed URL: https://slashdashdot.ca
 GitHub Repository URL: https://github.com/mashraka/crispy-octo-memory
 
 ## For the Future
