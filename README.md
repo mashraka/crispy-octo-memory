@@ -20,8 +20,6 @@ The Code:
 ![code screenshot](https://github.com/mashraka/crispy-octo-memory/blob/main/assets/images/code_screenshot_one.JPG?raw=true)
 
 ## Link
-Deployed URL: https://slashdashdot.ca
+[Deploy Link](https://mashraka.github.io/crispy-octo-memory/)
 GitHub Repository URL: https://github.com/mashraka/crispy-octo-memory
 
-## For the Future
-Meeting expectations in within a certain time frame is the biggest weekness at the moment. Intention is to get better at time management. 
